@@ -23,49 +23,6 @@ Atualmente atuo no desenvolvimento de aplicações voltadas para **automação d
 
 ---
 
-# 🚀 Principais Projetos
-
-## 🤖 GerecTech
-
-Ecossistema responsável por integrar sistemas corporativos, automações operacionais e soluções baseadas em Inteligência Artificial.
-
-### Destaques
-
-- Arquitetura RAG
-- Chatbot via WhatsApp
-- Centralização de conhecimento técnico
-- Integração entre múltiplos sistemas
-- APIs REST
-- RabbitMQ + Celery
-
----
-
-## 📄 Automação de Laudos Técnicos
-
-Projeto responsável por automatizar a geração de documentos utilizados por técnicos em campo.
-
-### Resultado
-
-✅ Redução de aproximadamente **90%** no tempo gasto para preenchimento dos laudos.
-
----
-
-## 📦 Product Hunter
-
-Plataforma para divulgação de produtos digitais.
-
-Tecnologias utilizadas:
-
-- Django REST Framework
-- RabbitMQ
-- Celery
-- PostgreSQL
-- Inteligência Artificial
-- Prometheus
-- Grafana
-
----
-
 # 🛠 Tecnologias
 
 ## Backend
@@ -98,7 +55,7 @@ Tecnologias utilizadas:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows)
+
 
 ---
 
@@ -109,7 +66,6 @@ Tecnologias utilizadas:
 - Clean Code
 - Integração de Sistemas
 - REST APIs
-- Swagger/OpenAPI
 
 ---
 
@@ -136,19 +92,6 @@ Tecnologias utilizadas:
 
 ---
 
-# 🎯 Atualmente estudando
-
-- Inteligência Artificial
-- LLMs
-- Arquiteturas RAG
-- Agentes de IA
-- Engenharia de Software
-- Arquitetura Backend
-- Microsserviços
-- Cloud Computing
-
----
-
 # 📫 Contato
 
 <p align="left">
@@ -167,7 +110,5 @@ Tecnologias utilizadas:
 </p>
 
 ---
-
-> **"Acredito que tecnologia vai além de escrever código. Ela deve resolver problemas reais, automatizar processos e gerar impacto positivo para pessoas e empresas."**
 
 ⭐ Obrigado pela visita! Fique à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
